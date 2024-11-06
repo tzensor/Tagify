@@ -92,7 +92,3 @@ git push --set-upstream origin <your-branch-name>
 8. Create a pull request from GitHub and wait for the review!
 
 **Contributions of any kind welcome!**
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/37345795/205490374-3b0bcefd-c48c-46f3-82ea-4db8c7afa98e.png"/>
-</p>
