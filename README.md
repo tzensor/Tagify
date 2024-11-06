@@ -93,14 +93,6 @@ git push --set-upstream origin <your-branch-name>
 
 **Contributions of any kind welcome!**
 
-# Authors
-
-This project was developed under a hackathon by
-
-- [Harshit Seksaria](https://github.com/letsintegreat/)
-- [Priyanshu Srivastava](https://github.com/GeekyPS)
-- [Nishchay Nilabh](https://github.com/Rockhopper130)
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/37345795/205490374-3b0bcefd-c48c-46f3-82ea-4db8c7afa98e.png"/>
 </p>
